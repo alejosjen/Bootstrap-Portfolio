@@ -43,11 +43,15 @@ hr {
 .content-titles-area {
     margin-top: 10px;
 }
+
 .content-about, .content-portfolio, .content-contact {
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
 
+.portfolio-text-image-wrapper {
+    width: 282px;
+}
 .fa-envelope:before {
     margin: 0 3px;
     color: #fff;
