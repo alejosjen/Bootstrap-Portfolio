@@ -30,7 +30,9 @@ hr {
 .container {
     margin-top: 15px;
     margin-bottom: 61px;
+    width: 100%
 }
+
 .content-titles-area, .content-about, .content-portfolio, .content-form {
     background-color: #ffffff;
     border-color: #dddddd;
@@ -49,9 +51,6 @@ hr {
     border-bottom-right-radius: 10px;
 }
 
-.portfolio-text-image-wrapper {
-    width: 282px;
-}
 .fa-envelope:before {
     margin: 0 3px;
     color: #fff;
