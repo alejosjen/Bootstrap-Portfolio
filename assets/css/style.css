@@ -3,12 +3,16 @@ html {
 }
 
 body {
-     background-image: url("/Users/jen/git/Bootstrap-Portfolio/assets/images/full-bloom.png");
+     background-image: url("../images/full-bloom.png");
 }
 
 p {
     padding: 0 1.5em 1em 1.5em;
     margin: 0;
+}
+
+a.portfolio-links {
+    color: #000;
 }
 
 hr {
